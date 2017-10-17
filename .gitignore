@@ -1,0 +1,7 @@
+__pycache__
+tub_data
+tub_model
+tkramer_data.tar.gz
+*.npy
+*.npz.npy
+.ipynb_checkpoints
